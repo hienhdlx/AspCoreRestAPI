@@ -1,0 +1,4 @@
+2020-04-19T17:30:23.1200565+07:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-04-19T17:30:23.1349615+07:00  [INF] Hosting environment: "Development" (c3307c92)
+2020-04-19T17:30:23.1366344+07:00  [INF] Content root path: "F:\ASP.net Core\AspCoreApiDapper\AspCoreRestAPI\AspCoreRestAPI" (b5d60022)
+2020-04-19T17:30:31.0170729+07:00 80000056-0002-fd00-b63f-84710c7967bb [ERR] tran hien loi roi (22a2365c)
